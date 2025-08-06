@@ -1,5 +1,6 @@
 def main():
-    print('Hello, Python programming.')
+    for i in range(1, 10):
+        print('{}:Hello, Python programming.'.format(i))
 
 
 if __name__ == '__main__':
