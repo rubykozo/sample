@@ -1,3 +1,4 @@
+# 本クラス
 class Book:
     def __init__(self, title):
         self._title = title
